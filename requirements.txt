@@ -1,0 +1,9 @@
+
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.1.5
+scipy==1.5.4
+scikit-learn==0.24.1
+git+git://github.com/CN-TU/dSalmon.git@6047d90#egg=dSalmon
+./tpSDOs
+tqdm==4.58.0
